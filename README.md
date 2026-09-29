@@ -1,8 +1,8 @@
 # Behavioral Capacity Certificates for Quantized Language Models
 
-**Arian Eamaz and Mojtaba Soltanalian**  
+**Arian Eamaz**  
 Department of Electrical and Computer Engineering, University of Illinois Chicago  
-aeamaz2@uic.edu · msol@uic.edu
+aeamaz2@uic.edu
 
 Code, notebooks, frozen protocols, and saved results for Behavioral Capacity
 Certificates (BCC). The experiments study behavioral complexity, independent-probe
