@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this work when using the BCC code or results."
+type: software
+title: "Behavioral Capacity Certificates for Quantized Language Models"
+authors:
+  - family-names: Eamaz
+    given-names: Arian
+    affiliation: "Department of Electrical and Computer Engineering, University of Illinois Chicago"
+    email: aeamaz2@uic.edu
+  - family-names: Soltanalian
+    given-names: Mojtaba
+    affiliation: "Department of Electrical and Computer Engineering, University of Illinois Chicago"
+    email: msol@uic.edu
+license: MIT
+repository-code: "https://github.com/eamaz/bcc"
